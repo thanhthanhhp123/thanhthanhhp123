@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @thanhthanhhp123
+- 👋 Hi, I’m Tran Quang Thanh
+- 🤙 I'm from Haiphong City
+- 💪 I'm trying to become an artificial intelligence engineer
 - 👀 I’m interested in playing game
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Artifical Intelligence
 - 📫 How to reach me: thanhmaxdz2003@gmail.com
 
 <!---
