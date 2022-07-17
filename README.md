@@ -2,7 +2,7 @@
 - 🤙 I'm from Haiphong City
 - 💪 I'm trying to become an artificial intelligence engineer
 - 👀 I’m interested in playing game
-- 🌱 I’m currently learning Artifical Intelligence
+- 🌱 I’m currently learning Information Technology
 - 📫 How to reach me: thanhmaxdz2003@gmail.com
 
 <!---
