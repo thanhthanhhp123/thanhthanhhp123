@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thanhthanhhp123
 - 👀 I’m interested in playing game
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: thanhmaxdz2003@gmail.com
 
 <!---
 thanhthanhhp123/thanhthanhhp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
