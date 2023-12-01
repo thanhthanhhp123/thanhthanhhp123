@@ -3,7 +3,7 @@
 - 💪 I'm trying to become an artificial intelligence engineer
 - 👀 I’m interested in playing game
 - 🌱 I’m currently learning Information Technology
-- 📫 How to reach me: thanhmaxdz2003@gmail.com
+- 📫 How to reach me: thanhthanhhp2003@gmail.com
 
 <!---
 thanhthanhhp123/thanhthanhhp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
