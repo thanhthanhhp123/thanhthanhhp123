@@ -61,12 +61,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhthanhhp123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhthanhhp123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <img src="https://streak-stats.demolab.com?user=thanhthanhhp123&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhthanhhp123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhthanhhp123/thanhthanhhp123/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/thanhthanhhp123/thanhthanhhp123/output/github-snake.svg" alt="snake" />
+</picture>
 
 </div>
 
